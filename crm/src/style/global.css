@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+body{
+    overflow-x: hidden;
+    font-family: 'Autour One';
+    background-color: #494949;
+    font-weight: 500;
+}
+
+select{
+    border: 0px;
+    background-color: #fff;
+
+    cursor: pointer;
+    width: 100%;
+}
