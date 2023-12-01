@@ -1,0 +1,46 @@
+/* Tarefas.css */
+
+  
+  .AdTarefa {
+    background-color: #3498db; /* Cor de fundo azul */
+    color: white; /* Cor do texto branco */
+    padding: 5px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 6px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor ao passar por cima */
+    margin: 10px;
+  }
+  
+  .AdTarefa:hover {
+    background-color: #2980b9; /* Cor de fundo mais escura ao passar por cima */
+  }
+
+  .Btnedicoes {
+    background-color: #3498db; /* Cor de fundo azul */
+    color: white; /* Cor do texto branco */
+    padding: 5px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 6px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor ao passar por cima */
+    margin: 10px;
+  }
+  
+  .Btnedicoes:hover {
+    background-color: #2980b9; /* Cor de fundo mais escura ao passar por cima */
+  }
+
+  .imgedicoes {
+    background-color: #3498db; /* Cor de fundo azul */
+    color: white; /* Cor do texto branco */
+    padding: 15px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 6px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor ao passar por cima */
+    margin: 10px;
+    width: 30px;
+    
+  }
+  
+  .imgedicoes:hover {
+    background-color: #2980b9; /* Cor de fundo mais escura ao passar por cima */
+  }
